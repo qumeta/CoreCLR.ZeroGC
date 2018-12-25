@@ -1,0 +1,1 @@
+set COMPlus_GCName=C:\Item\GitHub\CoreCLR.ZeroGC\build\ZeroGC.Calloc\x64_Release\ZeroGC.Calloc.dll
